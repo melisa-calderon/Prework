@@ -26,8 +26,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='Prework/tipCalc_AdobeCreativeCloudExpress.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<img src='tipCalc_AdobeCreativeCloudExpress.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Created with QuickTime Player and AdobeCreativeCloudExpress
 ## Notes
 
 It was changing dealing with constraints, but after a while I learned how they work better. It was also a bit challenging getting the slider to work how I wanted to, but I got it to work like I wanted to.

@@ -26,6 +26,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<img src='Prework/tipCalc_AdobeCreativeCloudExpress.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
@@ -33,7 +34,7 @@ It was changing dealing with constraints, but after a while I learned how they w
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2022 Melisa Calderon
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
